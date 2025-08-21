@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**PedroH-2A/PedroH-2A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PedroH-3A/PedroH-3A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
